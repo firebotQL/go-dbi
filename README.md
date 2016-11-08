@@ -30,6 +30,7 @@ Alternatively, you can clone the git repository & build it using make.
 This example assumes you have both go-dbi and the
 [go-dbd-mysql](http://github.com/thomaslee/go-dbd-mysql) driver installed.
 
+```go
     package main
 
     import (
@@ -82,7 +83,7 @@ This example assumes you have both go-dbi and the
             }
         }
     }
-
+```
 
 ## License
 
